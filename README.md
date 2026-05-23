@@ -2,15 +2,13 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | ADS Student | Tech Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+ADS;Python+%7C+Java+%7C+React+%7C+Node.js;Sempre+aprendendo+novas+tecnologias" />
+# 🚀 Full Stack Developer | ADS Student
 
 </div>
 
 ---
 
-## 💫 Sobre mim
+# 💫 Sobre mim
 
 🎓 Tenho **21 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.  
 💻 Trabalho como **Desenvolvedor Full Stack**, criando aplicações modernas, responsivas e escaláveis.  
@@ -41,23 +39,9 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌐 Contato
 
 <div align="center">
-
-<a href="https://linkedin.com/in/SEULINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="mailto:isaacfbqueiroz@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -74,7 +58,5 @@
 <div align="center">
 
 ### ✨ “Transformando ideias em código.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
